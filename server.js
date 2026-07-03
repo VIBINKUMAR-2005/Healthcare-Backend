@@ -32,7 +32,7 @@ const allowedOrigins = [
   'http://127.0.0.1:3000',
   'http://localhost:5000',   // CRA proxy sometimes sends this as the origin
   'http://127.0.0.1:5000',
-  'https://healthcare-frontend-liart.vercel.app/login',
+  'https://healthcare-frontend-liart.vercel.app',
 ];
 
 // Add any extra URL from .env (production frontend URL)
